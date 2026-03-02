@@ -1,9 +1,9 @@
 body { 
-    background-color: #d3d3d3;
+    background: linear-gradient(135deg, #a8a8a8 0%, #d3d3d3 100%);
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Caveat', cursive, Arial, sans-serif;
 }
