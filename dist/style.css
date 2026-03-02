@@ -1,5 +1,9 @@
 body { 
-    background: linear-gradient(135deg, #a8a8a8 0%, #d3d3d3 100%);
+    background-image: url('./assets/texture.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
